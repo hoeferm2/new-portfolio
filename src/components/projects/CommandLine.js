@@ -7,28 +7,27 @@ import Button from '@mui/material/Button';
 import Typography from '@mui/material/Typography';
 
 
-export default function Dog4u() {
+export default function CommandLine() {
     return (
-      <Card sx={{ maxWidth: 345, borderRadius: 2}}>
+      <Card sx={{ maxWidth: 345 }}>
 
         <CardMedia
           component="img"
           alt="dog search application"
-
           height="140"
-          image="https://thegabe101.github.io/Project-1-Rainer-Matt-Ming-Gabe/assets/images/logo.png"
+          image="/static/images/cards/contemplative-reptile.jpg"
         />
         <CardContent>
           <Typography gutterBottom variant="h5" component="div">
-            Dog4u
+            Command line application.
           </Typography>
           <Typography variant="body2" color="text.secondary">
-            Dog4u is a application that allows individuals to search for the perfect dog. It is made with a combination of HTML CSS and JS. Styling was done with Materialize.
+           This command line applicaiton allow the user to create an employee database. 
           </Typography>
         </CardContent>
         <CardActions>
-        <Button size="small" href="https://github.com/thegabe101/Project-1-Rainer-Matt-Ming-Gabe">Github</Button>
-        <Button size="small" href="https://thegabe101.github.io/Project-1-Rainer-Matt-Ming-Gabe/">Deployed Applicaiton</Button>
+        <Button size="small">Share</Button>
+        <Button size="small">Learn More</Button>
       </CardActions>
       </Card>
       
