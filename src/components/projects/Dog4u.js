@@ -16,7 +16,7 @@ export default function Dog4u() {
           alt="dog search application"
 
           height="140"
-          image="https://thegabe101.github.io/Project-1-Rainer-Matt-Ming-Gabe/assets/images/logo.png"
+          image="https://www.princeton.edu/sites/default/files/styles/half_2x/public/images/2022/02/KOA_Nassau_2697x1517.jpg?itok=iQEwihUn"
         />
         <CardContent>
           <Typography gutterBottom variant="h5" component="div">

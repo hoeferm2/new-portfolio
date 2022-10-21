@@ -15,7 +15,7 @@ export default function Liftr() {
           component="img"
           alt="dog search application"
           height="140"
-          image="/static/images/cards/contemplative-reptile.jpg"
+          image="https://github.com/thegabe101/liftr/raw/dev/screenshots/screenshot3.jpg"
         />
         <CardContent>
           <Typography gutterBottom variant="h5" component="div">
@@ -26,8 +26,8 @@ export default function Liftr() {
           </Typography>
         </CardContent>
         <CardActions>
-        <Button size="small">Share</Button>
-        <Button size="small">Learn More</Button>
+        <Button size="small" href="https://github.com/thegabe101/liftr">Github</Button>
+        <Button size="small">Deployed Application</Button>
       </CardActions>
       </Card>
       

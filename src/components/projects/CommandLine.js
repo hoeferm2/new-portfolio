@@ -15,7 +15,7 @@ export default function CommandLine() {
           component="img"
           alt="dog search application"
           height="140"
-          image="/static/images/cards/contemplative-reptile.jpg"
+          image="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Linux_command-line._Bash._GNOME_Terminal._screenshot.png/600px-Linux_command-line._Bash._GNOME_Terminal._screenshot.png"
         />
         <CardContent>
           <Typography gutterBottom variant="h5" component="div">
@@ -26,8 +26,8 @@ export default function CommandLine() {
           </Typography>
         </CardContent>
         <CardActions>
-        <Button size="small">Share</Button>
-        <Button size="small">Learn More</Button>
+        <Button size="small">Github</Button>
+        <Button size="small">Deployed Application</Button>
       </CardActions>
       </Card>
       

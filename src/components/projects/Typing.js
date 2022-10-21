@@ -14,7 +14,7 @@ export default function Typing() {
           component="img"
           alt="Shakespeare typing game"
           height="140"
-          image="/static/images/cards/contemplative-reptile.jpg"
+          image="https://www.jpandadyson.com/firstwriter/news/images/2016/03-Mar/1457639827.jpg"
         />
         <CardContent>
           <Typography gutterBottom variant="h5" component="div">
@@ -25,8 +25,8 @@ export default function Typing() {
           </Typography>
         </CardContent>
         <CardActions>
-        <Button size="small">Share</Button>
-        <Button size="small">Learn More</Button>
+        <Button size="small" href="https://github.com/AdmiralCrunchy/Monkeys_VS_Shakespeare">Github</Button>
+        <Button size="small" href="https://monkeys-vs-shakespeare.herokuapp.com/">Deployed Application</Button>
       </CardActions>
 
       </Card>

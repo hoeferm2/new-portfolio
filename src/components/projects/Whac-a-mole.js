@@ -13,7 +13,7 @@ export default function WhacAMole() {
         component="img"
         alt="green iguana"
         height="140"
-        image="/static/images/cards/contemplative-reptile.jpg"
+        image='https://www.railwayage.com/wp-content/uploads/2019/11/whackamole.jpg'
       />
       <CardContent>
         <Typography gutterBottom variant="h5" component="div">
@@ -24,8 +24,8 @@ export default function WhacAMole() {
         </Typography>
       </CardContent>
       <CardActions>
-        <Button size="small">Share</Button>
-        <Button size="small">Learn More</Button>
+        <Button size="small" href='https://github.com/hoeferm2/whac-a-mole'>Github</Button>
+        <Button size="small" href='https://hoeferm2.github.io/whac-a-mole/'>Deployed Applicaiton</Button>
       </CardActions>
     </Card>
   );

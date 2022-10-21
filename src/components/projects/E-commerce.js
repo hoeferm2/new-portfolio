@@ -15,7 +15,7 @@ export default function ECommerce() {
           component="img"
           alt="dog search application"
           height="140"
-          image="/static/images/cards/contemplative-reptile.jpg"
+          image="https://www.ringcentral.com/gb/en/blog/wp-content/uploads/2021/05/happy-manager-leads-a-meeting-in-the-office-640x427.jpg.webp"
         />
         <CardContent>
           <Typography gutterBottom variant="h5" component="div">
@@ -26,8 +26,8 @@ export default function ECommerce() {
           </Typography>
         </CardContent>
         <CardActions>
-        <Button size="small">Share</Button>
-        <Button size="small">Learn More</Button>
+        <Button size="small">Github</Button>
+        <Button size="small">Deployed Application</Button>
       </CardActions>
       </Card>
       
