@@ -10,6 +10,7 @@ import Typography from '@mui/material/Typography';
 export default function CommandLine() {
     return (
       <Card sx={{ maxWidth: 345 }}>
+        
 
         <CardMedia
           component="img"

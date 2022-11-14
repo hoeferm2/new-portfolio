@@ -27,7 +27,7 @@ export default function Liftr() {
         </CardContent>
         <CardActions>
         <Button size="small" href="https://github.com/thegabe101/liftr">Github</Button>
-        <Button size="small">Deployed Application</Button>
+        <Button size="small"href="https://thegabe101.github.io/login">Deployed Application</Button>
       </CardActions>
       </Card>
       
